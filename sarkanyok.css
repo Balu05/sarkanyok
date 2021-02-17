@@ -5,7 +5,9 @@ body {
 
 .keret {
     width: 80%;
-    margin: 0 auto;
+    margin: 0px auto;
+    padding: 30px;
+    background-color: rgba(255,255,255,.7);
 }
 
 a {
